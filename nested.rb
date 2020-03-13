@@ -87,7 +87,6 @@ programmer_hash[:yukihiro_matsumoto] = {
     "LISP",
     "C"]
 }
-#programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 programmer_hash
 end
 
